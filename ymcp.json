@@ -1,19 +1,19 @@
 {
-    "version": "0.17.0",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xlsft/ymcp/releases/download/v0.17.0/ymcp_windows_amd64.zip",
+            "url": "https://github.com/xlsft/ymcp/releases/download/v0.18.0/ymcp_windows_amd64.zip",
             "bin": [
                 "ymcp.exe"
             ],
-            "hash": "c61c4b4f671def15a050d6bf538eb056c6bf742d9e2d088928af58e15c60ae4f"
+            "hash": "6484e7501b75f6e4148ffcdaa3e6af32dad107e8cef3d6b7cd9697c8a819e806"
         },
         "arm64": {
-            "url": "https://github.com/xlsft/ymcp/releases/download/v0.17.0/ymcp_windows_arm64.zip",
+            "url": "https://github.com/xlsft/ymcp/releases/download/v0.18.0/ymcp_windows_arm64.zip",
             "bin": [
                 "ymcp.exe"
             ],
-            "hash": "d264088d42f7a23ea325b314fbdd5f2f1a446454ba8a9250db598794391f0c0b"
+            "hash": "1d4c26a89f212e4c5c93d6556406f5e6b537d86e962b10921a2cc93a6ab86047"
         }
     },
     "homepage": "https://github.com/xlsft/ymcp",
